@@ -1,1 +1,16 @@
 /* styles go here */
+div {
+  margin-bottom: 10px;
+}
+  
+fieldset {
+  margin-bottom: 20px;
+}
+  
+div:last-child {
+  margin-bottom: 0;
+}
+  
+.fieldest-css {
+  margin-bottom: 20px;
+}
