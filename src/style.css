@@ -1,13 +1,9 @@
 /* styles go here */
-div {
+.div_margin {
   margin-bottom: 10px;
 }
   
-fieldset {
-  margin-bottom: 20px;
-}
-  
-div:last-child {
+.div_margin:last-child {
   margin-bottom: 0;
 }
   
